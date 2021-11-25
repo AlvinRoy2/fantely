@@ -1,0 +1,2 @@
+# fantely
+i prefer python
